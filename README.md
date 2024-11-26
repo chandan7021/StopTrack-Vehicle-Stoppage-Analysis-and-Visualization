@@ -75,6 +75,6 @@ latitude,longitude,speed,eventdate,eventGeneratedTime
 
 ```
 ## Contact
-For any inquiries or feedback, please contact vikrantchauhan9794@gmail.com.
+For any inquiries or feedback, please contact chandanhz1207@gmail.com
 
 
